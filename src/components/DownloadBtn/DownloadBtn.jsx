@@ -1,7 +1,7 @@
 import './style.css'
 
 import iconDownLoad from '../../assets/download.svg'
-import pdfResume from '/src/assets/resume.pdf'
+import pdfResume from '../../assets/resume.pdf'
 
 function DownLoadBtn()
 {
