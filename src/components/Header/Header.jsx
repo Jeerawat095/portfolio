@@ -1,6 +1,6 @@
 import './style.css'
 import iconBlack from '../../assets/icon-black.svg';
-import DownLoadBtn from '../DownloadBtn/downloadBtn';
+import DownLoadBtn from '../DownloadBtn/DownloadBtn.jsx';
 
 function Header() 
 {
