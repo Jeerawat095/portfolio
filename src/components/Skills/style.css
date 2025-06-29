@@ -1,0 +1,83 @@
+.cSkills{
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.cSkillsMainText{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.cSkillLogoItem {
+    border: 1px solid black;
+    padding: 20px 10px;
+    margin: 15px;
+    width: 70px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.cSkillLogoItem:hover {
+    background-color: black;
+}
+
+.cSkillLogoItem:hover .cSkillImg {
+    filter: invert(1); /* turn black SVG to white */
+}
+
+.cSkillLogoItem:hover .cSkillTextItem {
+    color: white;
+}
+
+.cSkillImg {
+    width: 25px;
+}
+
+.cSkillTextItem {
+    color: black;
+    font-size: 12px;
+    text-align: center;
+}
+
+.cSkillsLogoContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    justify-items: center;
+}
+
+@media (min-width: 400px) {
+    .cSkillsLogoContainer {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (min-width: 500px) {
+    .cSkillsLogoContainer {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media (min-width: 600px) {
+    .cSkillsLogoContainer {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+@media (min-width: 768px) {
+    .cSkillsLogoContainer {
+        grid-template-columns: repeat(8, 1fr);
+    }
+}
+
+@media (min-width: 968px) {
+    .cSkillsLogoContainer {
+        grid-template-columns: repeat(10, 1fr);
+    }
+}

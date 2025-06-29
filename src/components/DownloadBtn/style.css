@@ -1,0 +1,20 @@
+.cDownload{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 5px;
+    padding: 7px 17px 7px 17px;
+    font-size: 16px;
+}
+
+.download-svg{
+    padding-left: 8px;
+    width: 23px;
+    height: 23px;
+}
+
+.pdf-resume{
+    text-decoration: none
+}

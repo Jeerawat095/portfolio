@@ -1,0 +1,53 @@
+.cExperience-container {
+    width: 100%;
+    background-color: black;
+    margin-top: 40px;
+}
+
+.cExperience-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    padding: 30px;
+}
+
+.cExperience-wrapper {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cExperience-card {
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    border: 1px solid #71717A;
+    border-radius: 5px;
+}
+
+.cExperience-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cExperience-company {
+    font-size: 18px;
+}
+
+.cExperience-date {
+    font-size: 16px;
+    color: #71717A;
+}
+
+.cExperience-description {
+    font-size: 16px;
+    color: #71717A;
+    padding-top: 20px;
+}
+
+.cExperience-spacer {
+    height: 40px;
+}
