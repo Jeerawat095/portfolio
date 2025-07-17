@@ -29,7 +29,6 @@ function Project()
                 This was an E-commerce project focused on selling products and services. It incorporated various campaigns and promotions, an online payment system, and a comprehensive backend system. <br />
                 <strong>Responsibilities:</strong> <br />
                 My role involved designing the workflow, database schema, and API integrations with the frontend using Swagger. <br />
-                <strong>Key areas of contribution included:</strong><br />
                 <ul>
                   <li>Campaign feature development</li>
                   <li>Heart service feature development</li>
@@ -59,7 +58,6 @@ function Project()
                 <strong>Project Description:</strong> <br />
                 This was an E-commerce system for online product sales and online payments, utilizing the Omise payment gateway. <br />
                 <strong>Responsibilities:</strong> <br />
-                My responsibilities included: <br />
                 <ul>
                   <li>Designing the workflow.</li>
                   <li>Designing the database schema.</li>
@@ -86,7 +84,7 @@ function Project()
             <div className="text-normal">
                 <strong>Project Description:</strong> <br />
                 This project involved developing a company website that showcased products and services, included lead generation forms, contact forms, and an online job application system. <br />
-                <strong>My responsibilities included:</strong> <br />
+                <strong>Responsibilities:</strong> <br />
                 <ul>
                   <li>Developing the backend system for managing website content and various lead forms.</li>
                   <li>Implementing the online job application system.</li>
@@ -110,7 +108,7 @@ function Project()
             <div className="text-normal">
                 <strong>Project Description:</strong> <br />
                 This project involved developing a job application system and a reporting system. <br />
-                <strong>My responsibilities included:</strong> <br />
+                <strong>Responsibilities:</strong> <br />
                 <ul>
                   <li>Designing the workflow.</li>
                   <li>Developing the data entry system for job applications.</li>
@@ -136,7 +134,7 @@ function Project()
             <div className="text-normal">
                 <strong>Project Description:</strong> <br />
                 This project involved developing an ERP (Enterprise Resource Planning) system for a hospital, designed to manage inventory of medications and various medical supplies/equipment. <br />
-                <strong>My responsibilities included:</strong> <br />
+                <strong>Responsibilities</strong> <br />
                 <ul>
                   <li>Designing the workflow, database schema, and APIs.</li>
                   <li>Developing report generation functionalities (Excel and PDF).</li>
